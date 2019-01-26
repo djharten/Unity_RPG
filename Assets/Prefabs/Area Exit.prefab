@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4debfb1507a66c342949b7c720931f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transitionName: VillageStart-East
+  transitionName: 
 --- !u!1 &3550204836478826225
 GameObject:
   m_ObjectHideFlags: 0
@@ -116,4 +116,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   areaToLoad: Test_Scene
-  areaTransitionName: 
+  areaTransitionName: Village2-West
+  entrance: {fileID: 3776489466686952017}
